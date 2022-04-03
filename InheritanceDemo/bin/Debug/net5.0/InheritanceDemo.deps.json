@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InheritanceDemo/1.0.0": {
+        "dependencies": {
+          "EmployeeBL": "1.0.0"
+        },
+        "runtime": {
+          "InheritanceDemo.dll": {}
+        }
+      },
+      "EmployeeBL/1.0.0": {
+        "runtime": {
+          "EmployeeBL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InheritanceDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

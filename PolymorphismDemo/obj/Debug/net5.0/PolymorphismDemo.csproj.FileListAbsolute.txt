@@ -1,0 +1,16 @@
+D:\InheritanceDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.exe
+D:\InheritanceDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.deps.json
+D:\InheritanceDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.runtimeconfig.json
+D:\InheritanceDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.runtimeconfig.dev.json
+D:\InheritanceDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.dll
+D:\InheritanceDemo\PolymorphismDemo\bin\Debug\net5.0\ref\PolymorphismDemo.dll
+D:\InheritanceDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.pdb
+D:\InheritanceDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.csproj.AssemblyReference.cache
+D:\InheritanceDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\InheritanceDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.AssemblyInfoInputs.cache
+D:\InheritanceDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.AssemblyInfo.cs
+D:\InheritanceDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+D:\InheritanceDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.dll
+D:\InheritanceDemo\PolymorphismDemo\obj\Debug\net5.0\ref\PolymorphismDemo.dll
+D:\InheritanceDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.pdb
+D:\InheritanceDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.genruntimeconfig.cache
