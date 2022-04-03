@@ -23,7 +23,7 @@ namespace EmployeeBL
         public void DisplayDetails()
         {
             Console.WriteLine("Employee ID :" + EmployeeID);
-            Console.WriteLine("Employee Name :" + EmployeeName);
+            Console.WriteLine("Employeee Name :" + EmployeeName);
             Console.WriteLine("Salary :" + EmployeeSalary);
             Console.WriteLine("Employye Count  :" + employeeCount);
         }
